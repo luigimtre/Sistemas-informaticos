@@ -1,0 +1,5 @@
+Name:Path:Description:Category:Scope
+GG-Direccion:OU=Direccion,DC=ieselcaminas,DC=mylocal:Grupo global de seguridad del departamento Direccion:Security:Global
+GG-Profesorado:OU=Profesorado,DC=ieselcaminas,DC=mylocal:Grupo global de seguridad del departamento Profesorado:Security:Global
+GG-ESOBAT:OU=Alumnado_ESOBAT,DC=ieselcaminas,DC=mylocal:Grupo global de seguridad del departamento ESOBAT:Security:Global
+GG-Ciclos:OU=Alumnado_Ciclos,DC=ieselcaminas,DC=mylocal:Grupo global de seguridad del departamento Ciclos:Security:Global

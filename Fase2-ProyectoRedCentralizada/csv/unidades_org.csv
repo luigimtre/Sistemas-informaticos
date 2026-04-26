@@ -1,0 +1,13 @@
+Name:Description:Path
+Direccion:Departamento Direccion:DC=ieselcaminas,DC=mylocal
+Profesorado:Departamento Profesorado:DC=ieselcaminas,DC=mylocal
+Alumnado_ESOBAT:Departamento ESO/BAT:DC=ieselcaminas,DC=mylocal
+Alumnado_Ciclos:Departamento Ciclos:DC=ieselcaminas,DC=mylocal
+Usuarios-Direccion:Usuarios Direccion:OU=Direccion,DC=ieselcaminas,DC=mylocal
+Equipos-Direccion:Equipos Direccion:OU=Direccion,DC=ieselcaminas,DC=mylocal
+Usuarios-Profesorado:Usuarios Profesorado:OU=Profesorado,DC=ieselcaminas,DC=mylocal
+Equipos-Profesorado:Equipos Profesorado:OU=Profesorado,DC=ieselcaminas,DC=mylocal
+Usuarios-ESOBAT:Usuarios ESO/BAT:OU=Alumnado_ESOBAT,DC=ieselcaminas,DC=mylocal
+Equipos-ESOBAT:Equipos ESO/BAT:OU=Alumnado_ESOBAT,DC=ieselcaminas,DC=mylocal
+Usuarios-Ciclos:Usuarios Ciclos:OU=Alumnado_Ciclos,DC=ieselcaminas,DC=mylocal
+Equipos-Ciclos:Equipos Ciclos:OU=Alumnado_Ciclos,DC=ieselcaminas,DC=mylocal

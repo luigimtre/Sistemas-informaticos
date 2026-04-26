@@ -1,0 +1,5 @@
+Computer:Path
+W11-DIR-01:OU=Equipos-Direccion,OU=Direccion,DC=ieselcaminas,DC=mylocal
+W11-ESO-01:OU=Equipos-ESOBAT,OU=Alumnado_ESOBAT,DC=ieselcaminas,DC=mylocal
+W11-PROF-01:OU=Equipos-Profesorado,OU=Profesorado,DC=ieselcaminas,DC=mylocal
+W11-CICLOS-01:OU=Equipos-Ciclos,OU=Alumnado_Ciclos,DC=ieselcaminas,DC=mylocal
